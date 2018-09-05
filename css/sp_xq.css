@@ -1,6 +1,6 @@
-header{height: 50px!important;}
+header{height: 60px!important;}
 .mui-bar-nav{max-width: 640px;margin: 0 auto;}
-.mui-title{color: #383838!important;line-height: 50px!important;}
+.mui-title{color: #383838!important;line-height: 60px!important;font-size: 24px;}
 .mui-slider .mui-slider-group .mui-slider-item img{max-height: 642px;max-width: 640px;}
 .mui-bar-tab{padding-top: 0!important;}
 .mui-bar-tab .a1{width: 16%!important;}
@@ -15,6 +15,7 @@ header{height: 50px!important;}
 .con_top .p_money{color: #ad194d;font-size: 26px;border-bottom: 1px solid #f0f0f0;}
 .con_top .p_give{color: #a0a0a0;font-size: 18px;}
 
+nav a .fs24{font-size: 24px!important;}
 
 
 
