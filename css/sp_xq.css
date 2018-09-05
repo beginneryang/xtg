@@ -1,0 +1,20 @@
+header{height: 50px!important;}
+.mui-bar-nav{max-width: 640px;margin: 0 auto;}
+.mui-title{color: #383838!important;line-height: 50px!important;}
+.mui-slider .mui-slider-group .mui-slider-item img{max-height: 642px;max-width: 640px;}
+.mui-bar-tab{padding-top: 0!important;}
+.mui-bar-tab .a1{width: 16%!important;}
+.mui-bar-tab .a2{width: 26%!important;color: #f6f4da!important;}
+.mui-bar-tab .br1{ border-right: 1px solid #efefef;}
+.mui-bar-tab .col1{background-color: #ff9400;}
+.mui-bar-tab .col2{background-color: #ff5f17;;}
+
+.con_top{background-color: #fff;padding-left: 12px;padding-top: 15px;}
+.con_top h2{font-size: 24px;color: #262626;margin:0;line-height: 28px;}
+.con_top p{margin: 0;line-height: 50px;}
+.con_top .p_money{color: #ad194d;font-size: 26px;border-bottom: 1px solid #f0f0f0;}
+.con_top .p_give{color: #a0a0a0;font-size: 18px;}
+
+
+
+

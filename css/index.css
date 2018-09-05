@@ -1,0 +1,39 @@
+@charset "utf-8";
+.top{background-color: #fff; height: 70px;line-height: 70px;text-align: center;font-size: 30px;font-weight: bold;}
+
+.banner{height: 250px;}
+
+/* 内容公共头部 */
+.con_top{margin-bottom: 14px; height: 72px;line-height: 72px;background-color: #fff;padding: 0 16px;box-sizing: border-box;}
+.con_top .sp1{font-size: 24px;color: #ad194d;}
+.con_top span a{ padding-right: 16px; color: #b6b6b6;font-size: 18px;background: url("../images/yjt.png") center right no-repeat;}
+
+/* 爆款推荐 */
+.con ul{ padding: 0 15px;}
+.con ul li{width: 300px;margin-bottom: 14px;}
+.con ul li:nth-child(2n){margin-left: 10px;}
+.con ul li a{display: block;width: 100%;height: 100%;}
+.con ul li img{width: 100%;max-width: 300px;max-height: 300px;}
+.con ul li .xq{padding-top: 26px;box-sizing: border-box; height: 116px;background-color: #fff;}
+.con ul li .xq h5{font-size: 24px;text-align: center;width: 100%; color: #333;margin-bottom: 12px;}
+.con ul li .xq p{line-height: 34px;padding: 0 20px;}
+.con ul li .xq p span{font-size: 34px; color: #ad194d;}
+.con ul li .xq p em{font-size: 20px; color: #999999;}
+
+/* 猜你喜欢 */
+.con1 ul{ padding: 0 15px;margin-bottom: 80px;}
+.con1 ul li{width: 196px;}
+.con1 ul li:nth-child(2){margin:0 10px;}
+.con1 ul li a{display: block;width: 100%;height: 100%;}
+.con1 ul li img{width: 100%;max-width: 196px;max-height: 196px;}
+.con1 ul li .xq{padding-top: 8px;box-sizing: border-box; height: 62px;background-color: #fff;}
+.con1 ul li .xq h5{font-size: 17px;text-align: center;width: 100%; color: #333;}
+.con1 ul li .xq p{line-height: 34px;padding: 0 8px;}
+.con1 ul li .xq p span{font-size: 22px; color: #ad194d;}
+.con1 ul li .xq p em{font-size: 13px; color: #999999;}
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+body{background-color: #f2f2f2;}
+
+.genre{position: fixed;top: 0;left: 0;width: 138px;margin-bottom: 86px;}
+.genre a{box-sizing: border-box; margin-bottom: 2px;border-left: 3px solid #f8f8f8; border-right: 2px solid #ededed; background-color: #f8f8f8;text-align: center; display: block;width: 100%;height: 86px;line-height: 86px;color: #979797;}
+.genre .act{border-left-color: #ad194d;color: #000;background-color: #fff;}
+
+.con_r{width: 502px;}
+.con_r_div ul li a{display: block; width: 100%;height: 100%;}
+.con_r_div h3{margin:0; color: #515151; height: 50px;line-height: 50px;padding-left: 24px;font-size: 20px;}
+.con_r_div ul{background-color: #fff; padding-left: 16px;}
+.con_r_div ul li{padding:16px 0;border-bottom: 1px solid #f2f2f2;}
+.con_r_div ul .img_div{margin-right: 18px; width: 106px;height: 106px;max-width: 106px;max-height: 106px;}
+.con_r_div ul .img_div img{width: 100%;}
+.con_r_div ul .txt_div h4{color: #383838;margin-bottom: 24px;}
+.con_r_div ul .txt_div span{color: #ad194d;font-size: 24px;}
+.con_r_div ul .tj_bt{display: block;margin-top: -32px; margin-right: 32px; width: 32px;height: 32px; background: url('../images/tj.png') no-repeat center center;background-size: 100%;border:0;}
