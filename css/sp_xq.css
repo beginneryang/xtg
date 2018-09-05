@@ -8,6 +8,7 @@ header{height: 60px!important;}
 .mui-bar-tab .br1{ border-right: 1px solid #efefef;}
 .mui-bar-tab .col1{background-color: #ff9400;}
 .mui-bar-tab .col2{background-color: #ff5f17;;}
+.mui-slider-indicator .mui-indicator{width: 12px;height: 12px;}
 
 .con_top{background-color: #fff;padding-left: 12px;padding-top: 15px;}
 .con_top h2{font-size: 24px;color: #262626;margin:0;line-height: 28px;}
